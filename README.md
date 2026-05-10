@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Caracterización de Micronegocios en Colombia y el Quindio - EMICRON 2024
 
 ## Descripción
@@ -119,7 +119,7 @@ El proyecto demuestra el uso de herramientas de análisis de datos para el proce
 
 ## Autor
 Marco Antonio Rolón Oliveros
-=======
+
 # micronegocios-colombia-2024
 Este repositorio contiene un análisis estadístico detallado sobre el panorama de los micronegocios, basado en los datos de la encuesta EMICRON. El proyecto busca identificar brechas de género, niveles de formalidad y la generación de valor agregado en la ciudad de Armenia en comparación con el promedio nacional y ciudades pares como Pereira.
->>>>>>> b2f33f2cc61a70b3562ded7f1e8b5ed93d25e0cc
+
